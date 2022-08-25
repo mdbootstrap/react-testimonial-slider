@@ -4,7 +4,7 @@
 
 Responsive React Testimonial Reviews Slider templates built with Bootstrap 5. See examples of the combination of Bootstrap carousel with testimonial reviews.
 
-Check out [React Testimonial Slider Documentation](https://mdbootstrap.com/docs/react/extended/square-buttons) for detailed instructions & even more examples.
+Check out [React Testimonial Slider Documentation](https://mdbootstrap.com/docs/react/extended/testimonial-slider) for detailed instructions & even more examples.
 
 ## Basic example 
 ![Basic example](https://user-images.githubusercontent.com/108793661/186608301-ea4a28a8-3c4b-4d04-afde-546ecc4ab813.png)
@@ -159,7 +159,7 @@ export default function App() {
 
 ## More examples (click on the image to see a live demo)
 ### Multiitem carousel:
-[![React Square Buttons #1](https://user-images.githubusercontent.com/108793661/186607955-c3e03537-d994-4947-824c-dbec0ea13696.png)](http://localhost:1313/docs/react/extended/testimonial-slider/#section-multiitem-carousel)
+[![React Square Buttons #1](https://user-images.githubusercontent.com/108793661/186607955-c3e03537-d994-4947-824c-dbec0ea13696.png)](https://mdbootstrap.com/docs/react/extended/testimonial-slider/#section-multiitem-carousel)
 
 <hr />
 
