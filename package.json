@@ -1,7 +1,7 @@
 {
-  "name": "react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
+  "name": "@mdbootstrap/react-testimonial-slider",
+  "version": "1.0.0",
+  "description": "Responsive React Testimonial Reviews Slider templates built with Bootstrap 5. See examples of the combination of Bootstrap carousel with testimonial reviews.",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
     "@fortawesome/free-solid-svg-icons": "^6.1.2",
@@ -28,7 +28,9 @@
     "bootstrap-theme",
     "css",
     "html",
-    "js"
+    "js",
+    "testimonial",
+    "slider"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
@@ -43,5 +45,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-testimonial-slider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/react-testimonial-slider/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/react/extended/testimonial-slider"
 }
